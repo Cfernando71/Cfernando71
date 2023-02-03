@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 
 ### Socials
 
-<a href="https://www.oracle.com/br/cloud/cloud-native/container-engine-kubernetes/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/">
+<a href="https://www.oracle.com/br/cloud/cloud-native/container-engine-kubernetes/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ### Badges
 
