@@ -32,8 +32,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 
  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
- <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src = "
-  https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+ <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
   
  
 
