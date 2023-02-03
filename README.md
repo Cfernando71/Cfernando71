@@ -38,8 +38,8 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
   
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
  <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/OracleCloud-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-  
-  
+ <a href="https://www.oracle.com/br/cloud/cloud-native/container-engine-kubernetes/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
   
   
  
