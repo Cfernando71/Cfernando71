@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 <a href="https://spark.apache.org//" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 
 ### Socials
