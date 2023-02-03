@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Cfernando71"><img src="https://github-readme-stats-Cfernando71.vercel.app/api?username=Cfernando71&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Cfernando71's GitHub stats" /></a>
+<a href="[http://www.github.com/Cfernando71](https://catalog-education.oracle.com/pls/certview/sharebadge?id=205DC215FF6D8815FC25A56561E98C30346C3BDE7FDD1460062C4B2B64B3A9CC)"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
