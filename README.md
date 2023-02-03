@@ -21,11 +21,12 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 
 ### Database
 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 
 ### Skills
  
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+ 
+<a href="https://spark.apache.org//" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=" https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
