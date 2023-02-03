@@ -53,21 +53,12 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 
 ### Badges
  
-<div align="center">
-<img src="https://user-images.githubusercontent.com/124115650/216719689-e04198d6-4a0e-4e8d-b4c1-2f7e9dd841df.jpg" width="700px"/>
-</div>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=24C527354FE0B2822AA2DC79E13F86D642D9E7479E98114149C6FFCEFF6421DF" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/124115650/216719689-e04198d6-4a0e-4e8d-b4c1-2f7e9dd841df.jpg" width="400px"/>
+
  
 
 
-<b>My GitHub Stats</b>
-
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=205DC215FF6D8815FC25A56561E98C30346C3BDE7FDD1460062C4B2B64B3A9CC"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=peguimasid&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<
 
 ### Support Me
 
