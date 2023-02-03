@@ -19,7 +19,6 @@ I am also a student at [IBMEC](https://www.ibmec.br/pos-graduacao/mba-em-bi-e-da
 <a href="https://www.github.com/Cfernando71" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-### Database
 
 
 ### Skills
@@ -33,7 +32,9 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 
  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
- <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+ <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  
  
   
  
