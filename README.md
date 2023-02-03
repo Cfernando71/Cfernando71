@@ -54,7 +54,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 ### Badges
  
 <div align="center">
-<img src="![Oracle Database Administration 2019 Certified Professional-DB19COCP](https://user-images.githubusercontent.com/124115650/216719689-e04198d6-4a0e-4e8d-b4c1-2f7e9dd841df.jpg)" width="700px"/>
+<img src="https://user-images.githubusercontent.com/124115650/216719689-e04198d6-4a0e-4e8d-b4c1-2f7e9dd841df.jpg" width="700px"/>
 </div>
  
 
