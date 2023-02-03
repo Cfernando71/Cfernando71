@@ -54,6 +54,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
 ### Badges
  
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=24C527354FE0B2822AA2DC79E13F86D642D9E7479E98114149C6FFCEFF6421DF" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/124115650/216719689-e04198d6-4a0e-4e8d-b4c1-2f7e9dd841df.jpg" width="400px"/>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=660015AB7AA9AA1367C313BE6651AB799827DCEBB9D322AE26DC305A9DDA0F66" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/124115650/216720619-805a37cd-effb-4687-8c59-4eed6db485d2.jpg" width="400px"/>
 
  
 
