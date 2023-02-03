@@ -19,11 +19,13 @@ I am also a student at [IBMEC](https://www.ibmec.br/pos-graduacao/mba-em-bi-e-da
 <a href="https://www.github.com/Cfernando71" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-### Languages
+### Database
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 
 ### Skills
+ 
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=" https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
