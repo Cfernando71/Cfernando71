@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos Fernando da Silva Gadelha Júnior
+Hi 👋 My name is Carlos Fernando da Silva Gadelha Junior
 ==========================
 
 Data Base Administrator & Data Scientist
