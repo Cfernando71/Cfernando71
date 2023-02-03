@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Cfernando71?logo=github&style=for-t
  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/OracleCloud-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+ <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"><img src = "https://img.shields.io/badge/OracleCloud-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   
   
   
