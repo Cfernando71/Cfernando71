@@ -4,9 +4,9 @@ Hi 👋 My name is Carlos Fernando da Silva Gadelha Júnior
 Data Base Administrator & Data Scientist
 -----------------------------
 
-I'm a 34 years old, Oracle Database Administrator and Data Scientist. I love to code and figure it out how to solve deep problems using latest technology. My main focus are Oracle Database, Oracle Apex, Python (Programming Language), PL/SQL and Machine Learning. making applications that impact the life of thousands of users.
+I'm a 34 years old, Oracle Database Administrator and Data Scientist. I love to code and figure it out how to solve deep problems using latest technology. My main focus are Oracle Database, Oracle Apex, Python (Programming Language), PL/SQL and Machine Learning. 
 
-I am also a student at [IBMEC](https://www.ibmec.br/pos-graduacao/mba-em-bi-e-data-science), MBA(BI & DATA SCIENCE).
+I am also a student at [IBMEC](https://www.ibmec.br/pos-graduacao/mba-em-bi-e-data-science). Course: MBA(BI & DATA SCIENCE).
 
 * 🌍  I'm based in Brasilia, Brazil
 * ✉️  You can contact me at [cafe.gadelha@gmail.com](mailto:cafe.gadelhad@gmail.com)
